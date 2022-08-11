@@ -6,7 +6,9 @@ main:
     url: https://kanghyeyoon.github.io/categories/
   - title: "Tags"
     url: https://kanghyeyoon.github.io/tags/
-    # - title: "Sample Posts"
+  - title: "Project"
+    url: https://kanghyeyoon.github.io/project/
+  # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
