@@ -2,7 +2,11 @@
 main:
   - title: "About"
     url: https://kanghyeyoon.github.io/about/
-  # - title: "Sample Posts"
+    - title: "Categories"
+    url: https://kanghyeyoon.github.io/categories/
+    - title: "Tags"
+    url: https://kanghyeyoon.github.io/tags/
+    # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
