@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: https://kanghyeyoon.github.io/about/
-    - title: "Categories"
+  - title: "Categories"
     url: https://kanghyeyoon.github.io/categories/
-    - title: "Tags"
+  - title: "Tags"
     url: https://kanghyeyoon.github.io/tags/
     # - title: "Sample Posts"
   #   url: /year-archive/
