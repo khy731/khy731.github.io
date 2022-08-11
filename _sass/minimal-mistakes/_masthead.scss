@@ -15,7 +15,8 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    // 메뉴바 간격 패딩 설정
+    padding: 0.5em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
