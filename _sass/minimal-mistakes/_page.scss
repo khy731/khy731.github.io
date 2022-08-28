@@ -110,8 +110,11 @@ body {
 		}
 	}
 
-  p,
-  li,
+  // 본문 폰트 사이즈 조절
+  p, li {
+    font-size: 0.85em;
+  }
+
   dl {
     font-size: 1em;
   }
