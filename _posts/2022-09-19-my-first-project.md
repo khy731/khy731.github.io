@@ -1,6 +1,6 @@
 ---
 title: "영화 카드 만들기 : React 예제 프로젝트"
-excerpt: "연습용 개인 프로젝트 (1)"
+excerpt: "연습용 개인 프로젝트 개요"
 
 categories:
     - project
