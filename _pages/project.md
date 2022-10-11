@@ -1,9 +1,7 @@
 ---
 title: "Project"
-permalink: /categories/project/
-layout: category
-author_profile: true
-taxonomy: project
+permalink: /project/
+layout: single
 ---
 
 프로젝트 모음
