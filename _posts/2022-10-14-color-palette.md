@@ -68,7 +68,7 @@ allColors.map((v,i) => {
 });
 ```
 
-`Array.prototype.map`함수를 사용하여 `allColors` 배열을 순회하면서 하위 컴포넌트(개별 컬러 팔레트)에 각각의 색상을 전달한다. key값은 인덱스 대신 useRef를 사용하였다. useRef를 컴포넌트 변수로 활용하는 이유에 대해서는 따로 포스팅하였다. → ()[]
+`Array.prototype.map`함수를 사용하여 `allColors` 배열을 순회하면서 하위 컴포넌트(개별 컬러 팔레트)에 각각의 색상을 전달한다. key값은 인덱스 대신 useRef를 사용하였다. useRef를 컴포넌트 변수로 활용하는 이유에 대해서는 따로 포스팅하였다. → [useRef를 컴포넌트 내 변수로 사용해보자](https://kanghyeyoon.github.io/react/useRef/)
 
 ```jsx
 // Color.js
