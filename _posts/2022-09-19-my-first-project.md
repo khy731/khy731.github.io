@@ -1,6 +1,6 @@
 ---
-title: "영화 카드 만들기 : React 예제 프로젝트"
-excerpt: "연습용 개인 프로젝트 개요"
+title: "React 사이드 프로젝트 추천, 영화 카드 만들기"
+excerpt: "간단한 영화 카드 웹 사이트를 만들면서 리액트와 친해지기"
 
 categories:
     - project

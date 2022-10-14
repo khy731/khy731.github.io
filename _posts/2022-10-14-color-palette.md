@@ -1,6 +1,6 @@
 ---
 title: "React에서 라이브러리 없이 컬러 팔레트 구현하기"
-excerpt: "색상 선택 기능과, 색상 데이터를 관리하는 법"
+excerpt: "리액트에서 컬러 팔레트 기능을 구현해보자"
 
 categories:
     - react
