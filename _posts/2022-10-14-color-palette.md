@@ -76,7 +76,7 @@ allColors.map((v,i) => {
 const Color = ( { color} ) => {
 
     return (
-        <button className="Color" style={{backgroundColor:`${color}`}} />
+        <button className="Color" style={%raw%}{{backgroundColor:`${color}`}}{%endraw%} />
     );
 };
 
@@ -135,7 +135,7 @@ const Preview = ( {color} ) => {
     return (
         <div className="Preview">
             <h2>카드 미리보기</h2>
-            <div className="Card" style={{backgroundColor:`${color}`}}>
+            <div className="Card" style={%raw%}{{backgroundColor:`${color}`}}{%endraw%}>
 							/* contents */
             </div>
         </div>
@@ -184,7 +184,7 @@ return (
 const Color = ( {id, color, isSelected} ) => {
 
     return (
-        <div className={`Color${isSelected === id ? 'Selected' : ''}`} style={{backgroundColor:`${color}`}} />
+        <div className={`Color${isSelected === id ? 'Selected' : ''}`} style={%raw%}{{backgroundColor:`${color}`}}{%endraw%} />
     );
 };
 
@@ -336,7 +336,7 @@ const Color = ( {id, color, isSelected} ) => {
     console.log(isSelected);
 
     return (
-        <div className={`Color${isSelected === id ? 'Selected' : ''}`} style={{backgroundColor:`${color}`}} />
+        <div className={`Color${isSelected === id ? 'Selected' : ''}`} style={%raw%}{{backgroundColor:`${color}`}}{%endraw%} />
     );
 };
 
@@ -352,7 +352,7 @@ const Preview = ( {color} ) => {
     return (
         <div className="Preview">
             <h2>카드 미리보기</h2>
-            <div className="Card" style={{backgroundColor:`${color}`}}>
+            <div className="Card" style={%raw%}{{backgroundColor:`${color}`}}{%endraw%}>
 								/* 생략 */
             </div>
         </div>
