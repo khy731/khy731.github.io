@@ -65,7 +65,6 @@ toc_sticky: true
 
 - `preflight request`의 `header`에는 `origin`이라는 필드가 있는데, 여기에 바로 나의 origin이 들어간다.
 - `response`의 `header`에는 `Acces-Control-Allow-Origin`이라는 필드가 있는데. 이곳에 **접근이 허용된 origin**이 명시되어 있다.
-- 
 
 즉, `preflight request`를 보내고 받은 `response`의 origin과 나의 origin을 **브라우저가 비교를 하여 다른 origin일 경우 요청을 컷하는 것**이다.
 
@@ -90,7 +89,7 @@ https://cors-anywhere.herokuapp.com/
 
 이 프록시 서버를 사용해 보겠다.
 
-일단, [위 url](https://cors-anywhere.herokuapp.com/)에 **접속**하여 구동시킨다. 그리고 API 요청 코드에서 엔드포인트 바로 앞에 복사+붙여넣기 한다.
+일단, [위 url](https://cors-anywhere.herokuapp.com/)에 **접속**하여 프록시 서버를 구동시킨다. 그리고 API 요청 코드에서 엔드포인트 바로 앞에 복사+붙여넣기 한다.
 
 이런 식이다.
 
