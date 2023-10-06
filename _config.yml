@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "Digital World"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kang Hye Yoon"
+name                     : "K"
 description              : "개발하는 정보통신공학도"
-url                      : "https://kanghyeyoon.github.io/"
+url                      : "https://khy731.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/skyblue.jpg"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "https-kanghyeyoon-github-io-1" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "https-khy731-github-io-1" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kang Hye Yoon"
+  name             : "K"
   avatar           : "/assets/images/skyblue.jpg"
   bio              : "개발하는 정보통신공학도"
   location         : "South Korea"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/KangHyeYoon"
+      url: "https://github.com/Khy731"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/KangHyeYoon"
+      url: "https://github.com/khy731"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

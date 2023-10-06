@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: server
 ---
 
-서버 사이드 관련 포스팅
+서버 관련 포스팅
